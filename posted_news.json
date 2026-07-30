@@ -37,11 +37,12 @@
     "ai_20260721_102827",
     "ai_20260721_210946",
     "ai_20260722_175757",
-    "ai_20260723_134711"
+    "ai_20260723_134711",
+    "top_skills_2026"
   ],
-  "last_post_time": "2026-07-22T17:58:39.472425",
-  "last_morning_post_date": "2026-07-22",
-  "last_evening_post_date": "2026-07-22",
+  "last_post_time": "2026-07-23T13:48:01.292826",
+  "last_morning_post_date": "2026-07-23",
+  "last_evening_post_date": "2026-07-23",
   "last_post_mode": "morning",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -79,7 +80,8 @@
     "INDIA'S TECH CHAKRAVYUH!",
     "COLD EMAIL: DREAM JOB HACK!",
     "ATMANIRBHAR CHIPS!",
-    "CRACK THE OA CODE"
+    "CRACK THE OA CODE",
+    "TOP 3 HACKS FOR FRESHERS! \ud83d\ude80"
   ],
   "posted_items": [
     {
@@ -593,6 +595,21 @@
       "link": "https://www.interviewbit.com/mock-test-for-freshers",
       "caption_explanation": "Online Assessments tho stress avtunnara freshers? Ee post lo mee OA score ni *next level* ki teese *super hacks* chudandi! Success ki *shortcut* ledhu, kaani *smartcut* undhi!",
       "date": "2026-07-23 13:47:57",
+      "mode": "evening"
+    },
+    {
+      "id": "top_skills_2026",
+      "title": "TOP 3 HACKS FOR FRESHERS! \ud83d\ude80",
+      "bullets": [
+        "Entry-level roles target cheyadaniki basic HTML/CSS standard complete useless.",
+        "Focus on *NextJS 15*, *PostgreSQL optimization*, and *AI integrations*.",
+        "Building personal SaaS projects is the best *Proof of Work* showing option.",
+        "Resume solid design chesthe easy ga *8 LPA+ package* crack cheyochu."
+      ],
+      "cta": "Roadmap & Link in Bio! @insta_ai_bot",
+      "link": "https://roadmap.sh/",
+      "caption_explanation": "Ee post lo freshers and software engineers high-package job crack cheyadaniki build cheyalsina key technical skills guide details checklist vundi.",
+      "date": "2026-07-30 10:11:37",
       "mode": "evening"
     }
   ]
