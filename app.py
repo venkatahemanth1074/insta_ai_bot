@@ -1,6 +1,7 @@
 import os
 import sys
 import json
+import socket
 import time
 import argparse
 import datetime
@@ -1816,6 +1817,33 @@ def run_single_post(mode, history_db):
         print("[!] Warning: Instagram upload failed. Not updating database tracking to allow retrying this post later.")
         return False
 
+def wait_for_network(timeout_seconds=None):
+    """Waits in a loop until internet connectivity is established."""
+    print("[*] Checking internet connectivity...")
+    check_hosts = [("8.8.8.8", 53), ("1.1.1.1", 53), ("google.com", 80)]
+    start_time = time.time()
+    
+    first_msg = True
+    while True:
+        for host, port in check_hosts:
+            try:
+                socket.setdefaulttimeout(3)
+                socket.create_connection((host, port), timeout=3)
+                print("[+] Internet connection detected! Proceeding with bot operations.")
+                return True
+            except Exception:
+                continue
+        
+        if timeout_seconds and (time.time() - start_time) >= timeout_seconds:
+            print(f"[!] Warning: Timeout of {timeout_seconds}s reached without internet connection.")
+            return False
+
+        if first_msg:
+            print("[!] No internet connection detected. Pausing bot execution until internet is connected...")
+            first_msg = False
+            
+        time.sleep(10)
+
 def main():
     # Load environment variables immediately on startup
     load_env()
@@ -1842,6 +1870,9 @@ def main():
             pass
 
     print(f"=== Instagram Bot Active: {datetime.datetime.now().strftime('%Y-%m-%d %H:%M:%S')} ===")
+    
+    # Pause execution on startup until internet connection is active
+    wait_for_network()
     
     # Download Montserrat fonts programmatically if missing
     download_fonts()
