@@ -43,10 +43,11 @@
     "ai_20260723_134711",
     "top_skills_2026",
     "ai_20260731_142551",
-    "ai_20260803_094230"
+    "ai_20260803_094230",
+    "ai_20260809_225807"
   ],
-  "last_post_time": "2026-08-03T09:43:10.716537",
-  "last_morning_post_date": "2026-08-03",
+  "last_post_time": "2026-08-09T22:57:00.663479",
+  "last_morning_post_date": "2026-08-09",
   "last_evening_post_date": "2026-08-03",
   "last_post_mode": "morning",
   "posted_titles": [
@@ -91,7 +92,8 @@
     "RECRUITER HACKS REVEALED!",
     "INDIA'S TECH PULSE CHECK!",
     "NEGOTIATE YOUR BEST OFFER!",
-    "INDIA'S TECH JOB ROLLERCOASTER"
+    "INDIA'S TECH JOB ROLLERCOASTER",
+    "LINKEDIN PROFILE POWER-UP!"
   ],
   "posted_items": [
     {
@@ -696,6 +698,21 @@
       "caption_explanation": "This post covers the *dynamic shifts* in India's tech job market, from AI hiring wars to women's growth. Expect to see *fresh stats* and *future predictions* for the startup ecosystem.",
       "date": "2026-08-09 22:56:55",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260809_225807",
+      "title": "LINKEDIN PROFILE POWER-UP!",
+      "bullets": [
+        "Mee *LinkedIn headline* ni job title tho kaadu, *skills tho optimize* cheyyandi!",
+        "*About section* lo mee journey, skills, *future goals* clear ga cheppandi, impressive untundi.",
+        "*Recommendations* request cheyyandi, adi mee *credibility ki boost* isthundi.",
+        "*Relevant certifications* add cheyyandi, recruiters *pichekkistai* mee profile chusi!"
+      ],
+      "cta": "Roadmap & Link in Bio! @insta_ai_bot",
+      "link": "https://www.linkedin.com/help/linkedin/answer/a511853",
+      "caption_explanation": "Mee LinkedIn profile ni *next level* ki thesukellali ante, ee post chudandi. Job hunting ki *powerful tool* ga ela marchalo, *simple hacks* tho explain chesthunnam!",
+      "date": "2026-08-09 22:59:14",
+      "mode": "evening"
     }
   ]
 }
