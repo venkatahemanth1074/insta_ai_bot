@@ -21,7 +21,8 @@
     "ai_20260723_134451",
     "ai_20260731_142355",
     "ai_20260803_094010",
-    "ai_20260809_225601"
+    "ai_20260809_225601",
+    "ai_20260810_140022"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -46,9 +47,9 @@
     "ai_20260803_094230",
     "ai_20260809_225807"
   ],
-  "last_post_time": "2026-08-09T22:57:00.663479",
+  "last_post_time": "2026-08-09T22:59:18.208279",
   "last_morning_post_date": "2026-08-09",
-  "last_evening_post_date": "2026-08-03",
+  "last_evening_post_date": "2026-08-09",
   "last_post_mode": "morning",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -93,7 +94,8 @@
     "INDIA'S TECH PULSE CHECK!",
     "NEGOTIATE YOUR BEST OFFER!",
     "INDIA'S TECH JOB ROLLERCOASTER",
-    "LINKEDIN PROFILE POWER-UP!"
+    "LINKEDIN PROFILE POWER-UP!",
+    "TECH INDIA: GLOBAL IMPULSE!"
   ],
   "posted_items": [
     {
@@ -713,6 +715,21 @@
       "caption_explanation": "Mee LinkedIn profile ni *next level* ki thesukellali ante, ee post chudandi. Job hunting ki *powerful tool* ga ela marchalo, *simple hacks* tho explain chesthunnam!",
       "date": "2026-08-09 22:59:14",
       "mode": "evening"
+    },
+    {
+      "id": "ai_20260810_140022",
+      "title": "TECH INDIA: GLOBAL IMPULSE!",
+      "bullets": [
+        "*31% women* tech roles lo, *career paths* expand avtunnai!",
+        "*AI startups* full swing lo unnai, *talent pool* ni fast ga grab chestunnai!",
+        "*Indian immigrant* founders *5 Trillion* dollar tech empire build chesaru, *maaheshwaram*!",
+        "*FY26* varaku *80,000 fresh tech jobs* India lo vasthunnai, *ready ga undandi*!"
+      ],
+      "cta": "Explore Opportunities! Link in Bio!",
+      "link": "https://www.moneycontrol.com/news/technology/",
+      "caption_explanation": "Ee post lo India lo unna *latest tech job trends* and *opportunities* gurinchi telusukondi. Current market dynamics, *women in tech roles*, and *startup hiring surges* pai insights kosam save cheskondi!",
+      "date": "2026-08-10 14:01:12",
+      "mode": "morning"
     }
   ]
 }
