@@ -71,6 +71,84 @@ MORNING_NEWS_CORPUS = [
         "cta": "Apply Link in Bio! @insta_ai_bot",
         "link": "https://www.zomato.com/careers",
         "caption_explanation": "Ee post lo Zomato Associate Developer hiring details (12 LPA package), DSA evaluation, and Golang/React requirements outline chesam bhayya."
+    },
+    {
+        "id": "google_ai_hiring_india",
+        "title": "GOOGLE AI MEGA HIRING! ⚡",
+        "bullets": [
+            "Google India expands its *AI Research & Cloud Labs* across Bengaluru & Hyderabad!",
+            "Hiring aggressively for *AI Engineers, SDEs & Cloud Architects* with high packages.",
+            "Strong grasp on *Python, PyTorch & Distributed Systems* is the top requirement.",
+            "Check open roles and apply before openings close bhayya!"
+        ],
+        "cta": "Apply Link in Bio! @insta_ai_bot",
+        "link": "https://careers.google.com/",
+        "caption_explanation": "Ee post lo Google India AI Research & Cloud hiring openings, required tech stack, and application guidelines cover chesam bhayya."
+    },
+    {
+        "id": "infosys_genai_upskill",
+        "title": "INFOSYS GEN-AI EXPANSION! 💻",
+        "bullets": [
+            "Infosys signs multi-billion dollar *Generative AI contracts* worldwide!",
+            "Massive internal promotion & hiring wave for *GenAI certified engineers*.",
+            "Focus on *LLM fine-tuning*, LangChain & Vector Databases for enterprise apps.",
+            "Upskill yourself with GenAI basics right now to stand out!"
+        ],
+        "cta": "Roadmap Link in Bio! @insta_ai_bot",
+        "link": "https://www.infosys.com/careers",
+        "caption_explanation": "Ee post lo Infosys GenAI deals, emerging LLM developer skill requirements, and market expansion details unnay bhayya."
+    },
+    {
+        "id": "nvidia_india_semiconductor",
+        "title": "NVIDIA INDIA EXPANSION! 🎮",
+        "bullets": [
+            "Nvidia partners with Indian tech giants to build *Sovereign AI Infrastructure*!",
+            "Huge demand for *CUDA Developers*, Chip Design engineers, and ML researchers.",
+            "Salaries for AI hardware engineers touching *30 LPA+* for top talent!",
+            "Learn GPU architecture & high-performance computing fundamentals."
+        ],
+        "cta": "Details in Bio! @insta_ai_bot",
+        "link": "https://www.nvidia.com/en-in/about-nvidia/careers/",
+        "caption_explanation": "Ee post lo Nvidia India AI infrastructure partnerships, CUDA developer requirements, and high package job insights unnay."
+    },
+    {
+        "id": "zoho_developer_drives",
+        "title": "ZOHO BOOTCAMP HIRING! 🚀",
+        "bullets": [
+            "Zoho announces fresh off-campus *Developer Hiring Drives* across India!",
+            "No degree restrictions bhayya — purely *raw coding skills* and aptitude test based.",
+            "Core focus on *C, Java & JavaScript* fundamentals and logical thinking.",
+            "Great culture, no toxic work hours, and high learning curve!"
+        ],
+        "cta": "Register Link in Bio! @insta_ai_bot",
+        "link": "https://www.zoho.com/careers/",
+        "caption_explanation": "Ee post lo Zoho degree-free developer hiring drives, coding evaluation patterns, and registration paths outline chesam."
+    },
+    {
+        "id": "swiggy_sde_roles",
+        "title": "SWIGGY SDE HIRING UPDATE! 🛵",
+        "bullets": [
+            "Swiggy hiring *Frontend & Backend Engineers* for its rapid delivery platform!",
+            "Tech stack priority: *Node.js, Kafka, Redis & Kubernetes* for high scale.",
+            "Live project experience on *Microservices architecture* is a huge advantage.",
+            "Competitive stock options & solid growth path. Prepare now!"
+        ],
+        "cta": "Apply Link in Bio! @insta_ai_bot",
+        "link": "https://careers.swiggy.com/",
+        "caption_explanation": "Ee post lo Swiggy SDE hiring parameters, microservices stack requirements, and application link details unnay."
+    },
+    {
+        "id": "microsoft_startups_hub",
+        "title": "MICROSOFT $150K CREDITS! 🌐",
+        "bullets": [
+            "Microsoft for Startups Founders Hub opens up *Free $150,000 Azure Credits*!",
+            "Includes free access to *OpenAI GPT-4o models* and GitHub Enterprise tools.",
+            "Any student developer or founder with a prototype can *apply directly*.",
+            "Build your AI SaaS startup with zero server cost bhayya!"
+        ],
+        "cta": "Claim Link in Bio! @insta_ai_bot",
+        "link": "https://foundershub.startups.microsoft.com/",
+        "caption_explanation": "Ee post lo Microsoft Founders Hub $150K free Azure & OpenAI credits access program for developers clear ga explain chesam."
     }
 ]
 
@@ -126,6 +204,84 @@ EVENING_CAREER_CORPUS = [
         "cta": "Cheat Sheets & Link in Bio! @insta_ai_bot",
         "link": "https://leetcode.com/",
         "caption_explanation": "Ee post lo technical interview rounds lo time & space complexity, design principles, and problem solving representation tips cover chesam."
+    },
+    {
+        "id": "github_portfolio_guide",
+        "title": "GITHUB PORTFOLIO HACKS! 💻",
+        "bullets": [
+            "Don't just upload college assignments! Pin *3 production-grade full-stack apps*.",
+            "Write clean *README.md files* with live demo links and architecture diagrams.",
+            "Keep your contribution graph active. Recruiters check *commit consistency*.",
+            "Show clean code structure and unit tests to prove industry readiness!"
+        ],
+        "cta": "Templates & Link in Bio! @insta_ai_bot",
+        "link": "https://github.com/",
+        "caption_explanation": "Ee post lo GitHub profile optimization, pinned repositories selection, and clean README representation hacks explain chesam."
+    },
+    {
+        "id": "system_design_freshers",
+        "title": "SYSTEM DESIGN BASICS! 🏗️",
+        "bullets": [
+            "Freshers cracking high package roles (15 LPA+) must master *System Design* basics.",
+            "Understand *Load Balancers, Caching (Redis)* and Database Indexing concepts.",
+            "Learn how URL shorteners and Chat apps work under the hood.",
+            "Explain trade-offs clearly during architectural evaluation rounds!"
+        ],
+        "cta": "Cheat Sheets in Bio! @insta_ai_bot",
+        "link": "https://bytebytego.com/",
+        "caption_explanation": "Ee post lo freshers system design preparation checklist, caching, load balancing, and interview trade-offs analysis vundi."
+    },
+    {
+        "id": "cold_dm_linkedin_leads",
+        "title": "LINKEDIN 10X REFERRALS! 🤝",
+        "bullets": [
+            "Never send generic 'Please refer me' messages to busy senior engineers.",
+            "Share a *2-line pitch* highlighting your skills and direct Job ID number.",
+            "Attach a 1-page tailored resume link so they can refer in *under 30 seconds*.",
+            "Referral callbacks double avtayi with this precise messaging framework!"
+        ],
+        "cta": "Templates in Bio! @insta_ai_bot",
+        "link": "https://linkedin.com/",
+        "caption_explanation": "Ee post lo LinkedIn direct referral outreach templates, messaging framework, and 30-second action hacks cover chesam."
+    },
+    {
+        "id": "salary_negotiation_rules",
+        "title": "SALARY HIKE SECRET! 💰",
+        "bullets": [
+            "Never reveal your expected number first! Ask for the *budgeted band range*.",
+            "Leverage competing job offers politely to negotiate *20-40% higher packages*.",
+            "Negotiate joining bonus, ESOPs and remote flexibility alongside base pay.",
+            "Confidence and market data research gives maximum leverage bhayya!"
+        ],
+        "cta": "Guide & Link in Bio! @insta_ai_bot",
+        "link": "https://levels.fyi/",
+        "caption_explanation": "Ee post lo software engineer salary negotiation rules, competing offers leverage, and package maximization guide unnay."
+    },
+    {
+        "id": "hackathon_winning_strategy",
+        "title": "WIN HACKATHONS EASY! 🏆",
+        "bullets": [
+            "Winning national hackathons gets direct *Fast-Track Interview calls*!",
+            "Focus 80% on a polished *UI/UX Demo* and clean business problem solving.",
+            "Don't build complex backends — deliver a working prototype that wows judges.",
+            "Add AI features to standard workflows to stand out effortlessly!"
+        ],
+        "cta": "Roadmap Link in Bio! @insta_ai_bot",
+        "link": "https://devfolio.co/",
+        "caption_explanation": "Ee post lo hackathon winning strategies, prototype prioritization, and fast-track interview shortcuts outline chesam."
+    },
+    {
+        "id": "behavioral_star_format",
+        "title": "CRACK HR ROUNDS EASY! ⭐",
+        "bullets": [
+            "Use the *STAR Method* (Situation, Task, Action, Result) for all HR questions.",
+            "Quantify your achievements with numbers e.g., 'Reduced loading latency by 35%'.",
+            "Prepare real stories for conflict resolution and leadership situations.",
+            "Structured answers impress hiring managers instantly bhayya!"
+        ],
+        "cta": "Cheat Sheets in Bio! @insta_ai_bot",
+        "link": "https://interviewing.io/",
+        "caption_explanation": "Ee post lo HR behavioral interview rounds lo STAR method structure and impact metrics storytelling hacks explain chesam."
     }
 ]
 
@@ -594,11 +750,11 @@ def generate_content_with_gemini(mode, scraped_news=None, history_db=None):
         blacklist_instructions = "\nCRITICAL: Do NOT generate a post that has a title similar to, or contains bullet points/career tips similar to, the following already posted content:\n"
         if posted_titles:
             blacklist_instructions += "Previously Posted Titles:\n"
-            for t in posted_titles[-30:]: # send up to last 30 titles
+            for t in posted_titles[-15:]: # send up to last 15 titles
                 blacklist_instructions += f"- {t}\n"
         if posted_bullets:
             blacklist_instructions += "Previously Posted Career/News Tips:\n"
-            for b in posted_bullets[-50:]: # send up to last 50 bullets
+            for b in posted_bullets[-20:]: # send up to last 20 bullets
                 blacklist_instructions += f"- {b}\n"
         blacklist_instructions += "Please ensure the generated content is 100% unique, fresh, and different from the above lists."
 
@@ -674,7 +830,7 @@ def generate_content_with_gemini(mode, scraped_news=None, history_db=None):
             data=json.dumps(payload).encode("utf-8"),
             headers={"Content-Type": "application/json"}
         )
-        with urllib.request.urlopen(req, timeout=15) as response:
+        with urllib.request.urlopen(req, timeout=35) as response:
             res_data = json.loads(response.read().decode("utf-8"))
             
         candidate = res_data.get("candidates", [{}])[0]
