@@ -1884,19 +1884,7 @@ def main():
     if mode == "auto":
         print("[*] Running in auto scheduler mode (startup/activation check)...")
         
-        today_str = datetime.datetime.now().strftime("%Y-%m-%d")
-        last_morning_date = history_db.get("last_morning_post_date")
-        last_evening_date = history_db.get("last_evening_post_date")
-        
-        need_morning = (last_morning_date != today_str)
-        need_evening = (last_evening_date != today_str)
-        
-        if not need_morning and not need_evening:
-            print("[!] Skip: Both morning and evening posts have already been successfully shared today. Exiting.")
-            print("=== Execution Complete ===\n")
-            return
-            
-        # Enforce a 3-hour minimum safety interval between any two uploads
+        # 6-hour check: if last post was more than 6 hours ago, post both updates!
         last_post_time_str = history_db.get("last_post_time")
         if last_post_time_str:
             try:
@@ -1904,37 +1892,38 @@ def main():
                 last_post_time = datetime.datetime.fromisoformat(clean_time_str)
                 time_diff = datetime.datetime.now() - last_post_time
                 hours_diff = time_diff.total_seconds() / 3600.0
-                if hours_diff < 3.0:
-                    print(f"[!] Skip: Last upload was only {hours_diff:.2f} hours ago (minimum safety gap is 3 hours). Exiting.")
+                if hours_diff < 6.0:
+                    print(f"[!] Skip: A post was successfully shared {hours_diff:.2f} hours ago (less than 6 hours). Exiting.")
                     print("=== Execution Complete ===\n")
                     return
             except Exception as e:
                 print(f"[*] Warning: Could not parse last_post_time '{last_post_time_str}': {e}. Proceeding.")
 
-        print(f"[*] Scheduler checklist: Morning post needed = {need_morning} | Evening post needed = {need_evening}")
+        print("[*] Interval check passed (last post was >= 6 hours ago). Generating and posting BOTH morning and evening updates...")
         
-        morning_success = False
+        today_str = datetime.datetime.now().strftime("%Y-%m-%d")
         
-        if need_morning:
-            print("[*] Running morning post...")
-            morning_success = run_single_post("morning", history_db)
-            if morning_success:
-                history_db["last_morning_post_date"] = today_str
-                history_db["last_post_time"] = datetime.datetime.now().isoformat()
-                save_db(history_db)
-                
-            if morning_success and need_evening:
-                print("[*] Morning post successful. Waiting 60 seconds before starting evening post...")
-                import time
-                time.sleep(60)
-                
-        if need_evening:
-            print("[*] Running evening post...")
-            evening_success = run_single_post("evening", history_db)
-            if evening_success:
-                history_db["last_evening_post_date"] = today_str
-                history_db["last_post_time"] = datetime.datetime.now().isoformat()
-                save_db(history_db)
+        # Post morning
+        print("[*] Running morning post...")
+        morning_success = run_single_post("morning", history_db)
+        if morning_success:
+            history_db["last_morning_post_date"] = today_str
+            history_db["last_post_time"] = datetime.datetime.now().isoformat()
+            save_db(history_db)
+            
+        # Wait a short delay (60 seconds) between posts to avoid spam triggers
+        if morning_success:
+            print("[*] Morning post successful. Waiting 60 seconds before starting evening post...")
+            import time
+            time.sleep(60)
+            
+        # Post evening
+        print("[*] Running evening post...")
+        evening_success = run_single_post("evening", history_db)
+        if evening_success:
+            history_db["last_evening_post_date"] = today_str
+            history_db["last_post_time"] = datetime.datetime.now().isoformat()
+            save_db(history_db)
 
     else:
         # Manual run of specific mode
