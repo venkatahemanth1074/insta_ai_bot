@@ -23,7 +23,8 @@
     "ai_20260803_094010",
     "ai_20260809_225601",
     "ai_20260810_140022",
-    "ai_20260811_001711"
+    "ai_20260811_001711",
+    "krutrim_telugu_ai"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -50,9 +51,9 @@
     "ai_20260810_140226",
     "ai_20260811_001921"
   ],
-  "last_post_time": "2026-08-11T00:18:11.258593",
+  "last_post_time": "2026-08-11T00:20:10.524208",
   "last_morning_post_date": "2026-08-11",
-  "last_evening_post_date": "2026-08-10",
+  "last_evening_post_date": "2026-08-11",
   "last_post_mode": "morning",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -101,7 +102,8 @@
     "TECH INDIA: GLOBAL IMPULSE!",
     "LINKEDIN GAME CHANGER!",
     "TECH TALENT SHOWDOWN",
-    "ATS BYPASS: RESUME POWER!"
+    "ATS BYPASS: RESUME POWER!",
+    "AI IN TELUGU IS REAL! \ud83e\udd16"
   ],
   "posted_items": [
     {
@@ -781,6 +783,21 @@
       "caption_explanation": "Ee post lo meeru *ATS ni ela bypass cheyyalo* nerchukuntaru, mee resume ni *shortlisting ki ready* chestunnam! *Powerful strategies* tho mee dream job ki *easy ga access* cheyyandi.",
       "date": "2026-08-11 00:20:07",
       "mode": "evening"
+    },
+    {
+      "id": "krutrim_telugu_ai",
+      "title": "AI IN TELUGU IS REAL! \ud83e\udd16",
+      "bullets": [
+        "India's own AI model *Krutrim* launches Telugu language support bhayya!",
+        "Ee tool direct ga *regional languages* lo clean codes write/debug chestundi.",
+        "Local startup founders & developers ki idi *massive advantage* to build fast.",
+        "Tech and language barriers complete break aypotunnai, leverage this tool!"
+      ],
+      "cta": "Apply Link in Bio! @insta_ai_bot",
+      "link": "https://krutrim.com/",
+      "caption_explanation": "Ee post lo Krutrim AI tool local language support parameters, startup advantages, and language barrier solutions details vunnai bhayya.",
+      "date": "2026-08-11 15:49:52",
+      "mode": "morning"
     }
   ]
 }
