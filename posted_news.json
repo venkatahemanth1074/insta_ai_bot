@@ -25,7 +25,8 @@
     "ai_20260810_140022",
     "ai_20260811_001711",
     "krutrim_telugu_ai",
-    "ai_20260814_212815"
+    "ai_20260814_212815",
+    "ai_20260816_134606"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -53,8 +54,8 @@
     "ai_20260811_001921",
     "ai_20260811_155118"
   ],
-  "last_post_time": "2026-08-11T15:51:56.898142",
-  "last_morning_post_date": "2026-08-11",
+  "last_post_time": "2026-08-14T21:29:14.541470",
+  "last_morning_post_date": "2026-08-14",
   "last_evening_post_date": "2026-08-11",
   "last_post_mode": "morning",
   "posted_titles": [
@@ -107,7 +108,8 @@
     "ATS BYPASS: RESUME POWER!",
     "AI IN TELUGU IS REAL! \ud83e\udd16",
     "INTERVIEW FOLLOW-UP MAGIC!",
-    "TECH JOB SCENE INDIA!"
+    "TECH JOB SCENE INDIA!",
+    "INDIA'S TECH JOB FUTURE!"
   ],
   "posted_items": [
     {
@@ -831,6 +833,21 @@
       "link": "https://economictimes.indiatimes.com/tech/startups",
       "caption_explanation": "Ee post lo Indian tech job market lo unna *latest trends* gurinchi explain chesam. AI impact nunchi women in tech varaku, *future opportunities* ni chudandi!",
       "date": "2026-08-14 21:29:04",
+      "mode": "morning"
+    },
+    {
+      "id": "ai_20260816_134606",
+      "title": "INDIA'S TECH JOB FUTURE!",
+      "bullets": [
+        "AI startups *India lo fire* chestunnai, *talent war high* pitch ki cherindi!",
+        "Indian immigrants *833 jobs per company* create chesi, *$5 Trillion+* impact chupincharu!",
+        "AI-driven layoffs unna sare, *women in tech* count *31%* ki perigindi, *mid-career roles* booming!",
+        "FY26 ki *Indian startup market* lo *80,000 new tech jobs* vastunnai, *opportunities ready*!"
+      ],
+      "cta": "Check bio for *latest tech job updates*! @insta_ai_bot",
+      "link": "https://www.techcrunch.com/india",
+      "caption_explanation": "This post deep dive chestundi into India's dynamic tech job market. Latest news, trends, and future forecast antha okka frame lo chudandi!",
+      "date": "2026-08-16 13:46:57",
       "mode": "morning"
     }
   ]
