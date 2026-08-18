@@ -26,7 +26,8 @@
     "ai_20260811_001711",
     "krutrim_telugu_ai",
     "ai_20260814_212815",
-    "ai_20260816_134606"
+    "ai_20260816_134606",
+    "ai_20260818_201214"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -56,10 +57,10 @@
     "ai_20260816_134814",
     "ai_20260817_132128"
   ],
-  "last_post_time": "2026-08-16T13:49:00.032735",
+  "last_post_time": "2026-08-17T13:22:24.594473",
   "last_morning_post_date": "2026-08-16",
-  "last_evening_post_date": "2026-08-16",
-  "last_post_mode": "morning",
+  "last_evening_post_date": "2026-08-17",
+  "last_post_mode": "evening",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
     "RESUME SHORTLIST HACK! \ud83d\udcc4",
@@ -113,7 +114,8 @@
     "TECH JOB SCENE INDIA!",
     "INDIA'S TECH JOB FUTURE!",
     "COLD EMAIL GOLDMINE!",
-    "STORYTELLING FOR JOBS!"
+    "STORYTELLING FOR JOBS!",
+    "JOB MARKET WHIRLWIND!"
   ],
   "posted_items": [
     {
@@ -883,6 +885,21 @@
       "caption_explanation": "Fresher ga jobs kosam interview lo *ela impress cheyyalo telusa*? Ee post lo mee stories ni *powerfully present cheyadam ela* ani chudandi!",
       "date": "2026-08-17 13:22:19",
       "mode": "evening"
+    },
+    {
+      "id": "ai_20260818_201214",
+      "title": "JOB MARKET WHIRLWIND!",
+      "bullets": [
+        "Startup lay-offs peddaga affect chestunnai. *New joinees* ki *security challenge* ga marindi!",
+        "*Indian diaspora* startup success ni *direct ga drive cheyyadam* ippudu *challenging*!",
+        "*AI startups* lo talent kosam *intense war* nadustundi. *High demand skills* ki pichekkistai!",
+        "*FY26* ki *80,000+ new tech jobs* ready! *Indian market boom* ni miss avvakandi bhayya!"
+      ],
+      "cta": "Explore More Insights! Link in Bio! @TheTechBytes",
+      "link": "https://economictimes.indiatimes.com/tech/",
+      "caption_explanation": "India lo tech job market entha dynamic ga undho ee post explain chestundi. Startup layoffs nunchi huge job openings varaku, annee *key insights* chudandi!",
+      "date": "2026-08-18 20:13:20",
+      "mode": "morning"
     }
   ]
 }
