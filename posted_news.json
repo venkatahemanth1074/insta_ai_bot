@@ -57,10 +57,11 @@
     "ai_20260811_155118",
     "ai_20260816_134814",
     "ai_20260817_132128",
-    "ai_20260818_201435"
+    "ai_20260818_201435",
+    "ai_20260819_191643"
   ],
-  "last_post_time": "2026-08-18T20:15:39.856794",
-  "last_morning_post_date": "2026-08-18",
+  "last_post_time": "2026-08-19T19:14:55.506735",
+  "last_morning_post_date": "2026-08-19",
   "last_evening_post_date": "2026-08-18",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -119,7 +120,8 @@
     "STORYTELLING FOR JOBS!",
     "JOB MARKET WHIRLWIND!",
     "FRESHER JOB HACKS!",
-    "STARTUP SHAKE-UP INDIA!"
+    "STARTUP SHAKE-UP INDIA!",
+    "INTERVIEWER MIND HACKS!"
   ],
   "posted_items": [
     {
@@ -934,6 +936,21 @@
       "caption_explanation": "Ee post lo latest *Indian tech job market* updates, *startup trends* gurinchi telusukondi. Mee career next level ki teesukellandi!",
       "date": "2026-08-19 19:14:51",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260819_191643",
+      "title": "INTERVIEWER MIND HACKS!",
+      "bullets": [
+        "Interview lo question *venaka unna meaning* ni pakka *decipher cheyyali bhayya*. Valla *intent* ni catch cheyyi!",
+        "Answer chesaka *chinna pause* teeskoni, interviewer *response ni observe* cheyyi. Ee *hack super useful*!",
+        "Mee *questions tho impress* cheyyandi. Company goals tho nee *career ni align* chesi chupinchu.",
+        "*Confidence tho matladu*. Eye contact maintain chesi, nee *passion ni project* cheyyi, *mind hack chestav*!"
+      ],
+      "cta": "Interview Guide & Link in Bio! @insta_ai_bot",
+      "link": "https://www.themuse.com/advice/interview-questions-and-answers",
+      "caption_explanation": "Interviews ante just questions ki answers cheppadam kaadu, interviewer mind ni *ardham cheskovadam*. Ee post lo *ultimate strategies* tho, mee next interview ni *pakka nail cheyyandi*!",
+      "date": "2026-08-19 19:17:23",
+      "mode": "evening"
     }
   ]
 }
