@@ -60,10 +60,11 @@
     "ai_20260817_132128",
     "ai_20260818_201435",
     "ai_20260819_191643",
-    "ai_20260819_214138"
+    "ai_20260819_214138",
+    "ai_20260820_185918"
   ],
-  "last_post_time": "2026-08-19T21:42:26.460959",
-  "last_morning_post_date": "2026-08-19",
+  "last_post_time": "2026-08-20T18:57:46.737679",
+  "last_morning_post_date": "2026-08-20",
   "last_evening_post_date": "2026-08-19",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -125,7 +126,8 @@
     "STARTUP SHAKE-UP INDIA!",
     "INTERVIEWER MIND HACKS!",
     "REFERRAL CODE DECODED!",
-    "STARTUP RISKS & AI GAINS"
+    "STARTUP RISKS & AI GAINS",
+    "PAYCHECK BOOST HACKS!"
   ],
   "posted_items": [
     {
@@ -985,6 +987,21 @@
       "caption_explanation": "Tech world lo jarugutunna *major shifts* ni mee munduku techcham! Ee post lo Indian tech market trends, *H1B impact*, and *AI hiring surge* gurinchi interesting insights unnai. Don't miss out on these critical updates!",
       "date": "2026-08-20 18:57:42",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260820_185918",
+      "title": "PAYCHECK BOOST HACKS!",
+      "bullets": [
+        "Market value *telusukondi*, company salary range *clear ga observe* cheyyandi.",
+        "*First offer accept* cheyyakandi. Always *counter-offer* cheyyandi, confidence choopinchandi.",
+        "Perks ni highlight cheyyandi: *Health benefits*, *bonuses*, *work-life balance* ni discuss cheyyandi.",
+        "Silence is *power*. Offer receive chesaka *chinna pause* teeskoni, *think cheyyandi*. Pressure vaddhu."
+      ],
+      "cta": "Negotiation Guide & Link in Bio! @career_guru_bot",
+      "link": "https://careersuccess.com/salary-negotiation-guide",
+      "caption_explanation": "Ee post lo meeku *salary negotiation tips* dorukutayi. Mee next job offer lo *paycheck boost cheyadaniki* ivvi *next level help* chestayi.",
+      "date": "2026-08-20 18:59:55",
+      "mode": "evening"
     }
   ]
 }
