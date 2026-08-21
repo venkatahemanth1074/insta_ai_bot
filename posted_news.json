@@ -63,10 +63,11 @@
     "ai_20260819_191643",
     "ai_20260819_214138",
     "ai_20260820_185918",
-    "ai_20260820_223501"
+    "ai_20260820_223501",
+    "ai_20260821_100003"
   ],
-  "last_post_time": "2026-08-20T22:36:21.585469",
-  "last_morning_post_date": "2026-08-20",
+  "last_post_time": "2026-08-21T09:58:39.730083",
+  "last_morning_post_date": "2026-08-21",
   "last_evening_post_date": "2026-08-20",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -131,7 +132,8 @@
     "STARTUP RISKS & AI GAINS",
     "PAYCHECK BOOST HACKS!",
     "RESUME IMPACT MAKEOVER!",
-    "AI & INDIA: JOB ROLLERCOASTER!"
+    "AI & INDIA: JOB ROLLERCOASTER!",
+    "ATS BYPASS SECRETS!"
   ],
   "posted_items": [
     {
@@ -1036,6 +1038,21 @@
       "caption_explanation": "India's tech job market *eppudu intense*. Ee post lo startup layoffs, H1B impact, and AI hiring trends gurinchi *latest insights* untay!",
       "date": "2026-08-21 09:58:36",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260821_100003",
+      "title": "ATS BYPASS SECRETS!",
+      "bullets": [
+        "*Standard resume format* vadandi. Fancy designs *ATS confuse chestayi*, plain text preferred.",
+        "*File format PDF* best choice, ATS ki easy ga parse avtundi, *design intact* untundi.",
+        "*Invisible text hack* vadaddhu! ATS identify chesi *spam cheskuntundi*.",
+        "*Custom headings vadaddhu*. 'Work Experience' or 'Education' la *standard headings use cheyyandi*."
+      ],
+      "cta": "Your ATS Guide & Link in Bio! @insta_ai_bot",
+      "link": "https://zety.com/blog/ats-resume",
+      "caption_explanation": "Mee resume ATS lo *reject avtunda*? Ee post lo *top ATS hacks* tho shortlisting *easy cheseyyandi*!",
+      "date": "2026-08-21 10:00:44",
+      "mode": "evening"
     }
   ]
 }
