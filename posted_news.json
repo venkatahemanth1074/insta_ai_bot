@@ -65,10 +65,11 @@
     "ai_20260819_214138",
     "ai_20260820_185918",
     "ai_20260820_223501",
-    "ai_20260821_100003"
+    "ai_20260821_100003",
+    "ai_20260822_190140"
   ],
-  "last_post_time": "2026-08-21T10:00:47.492596",
-  "last_morning_post_date": "2026-08-21",
+  "last_post_time": "2026-08-22T19:00:23.813208",
+  "last_morning_post_date": "2026-08-22",
   "last_evening_post_date": "2026-08-21",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -135,7 +136,8 @@
     "RESUME IMPACT MAKEOVER!",
     "AI & INDIA: JOB ROLLERCOASTER!",
     "ATS BYPASS SECRETS!",
-    "AI VS LAYOFFS INDIA!"
+    "AI VS LAYOFFS INDIA!",
+    "FRESHER RESUME REVOLT!"
   ],
   "posted_items": [
     {
@@ -1070,6 +1072,21 @@
       "caption_explanation": "Indian tech job market *chala dynamic ga undi*. Ee post lo *startup risks*, *AI-driven hiring surge*, mariyu *exciting new job stats* ni explore cheyyandi!",
       "date": "2026-08-22 19:00:19",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260822_190140",
+      "title": "FRESHER RESUME REVOLT!",
+      "bullets": [
+        "*College projects ni highlight cheyyandi*. Real-world *impact* ni emphasize cheyyandi, results *numbers lo* chupinchandi.",
+        "*Skills section ni smart ga develop cheyyandi*. Job description lo unna *key skills ni list cheyyandi*, relevant projects tho prove cheyyandi.",
+        "*Volunteering & extra-curriculars ni add cheyyandi*. Leadership, team-work skills ni *indirect ga chupinchandi*. Mana personality ki *value add* chesinaattu!",
+        "*One-page resume rule follow avvandi*. Recruiters *time chala takkuva*. *Crisp ga, clear ga* mee best version ni present cheyyandi."
+      ],
+      "cta": "Templates & Link in Bio! @insta_ai_bot",
+      "link": "https://bit.ly/fresher-resume-guide",
+      "caption_explanation": "Freshers ki job search lo resume chala important. Ee post lo mee resume ni ela *powerful ga* cheyyalo simple tips tho explain chestunnam. Chusi try cheyyandi!",
+      "date": "2026-08-22 19:02:21",
+      "mode": "evening"
     }
   ]
 }
