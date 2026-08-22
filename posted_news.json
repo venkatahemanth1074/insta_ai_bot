@@ -30,7 +30,8 @@
     "ai_20260818_201214",
     "ai_20260819_191406",
     "ai_20260820_185654",
-    "ai_20260821_095743"
+    "ai_20260821_095743",
+    "ai_20260822_185921"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -66,9 +67,9 @@
     "ai_20260820_223501",
     "ai_20260821_100003"
   ],
-  "last_post_time": "2026-08-21T09:58:39.730083",
+  "last_post_time": "2026-08-21T10:00:47.492596",
   "last_morning_post_date": "2026-08-21",
-  "last_evening_post_date": "2026-08-20",
+  "last_evening_post_date": "2026-08-21",
   "last_post_mode": "evening",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -133,7 +134,8 @@
     "PAYCHECK BOOST HACKS!",
     "RESUME IMPACT MAKEOVER!",
     "AI & INDIA: JOB ROLLERCOASTER!",
-    "ATS BYPASS SECRETS!"
+    "ATS BYPASS SECRETS!",
+    "AI VS LAYOFFS INDIA!"
   ],
   "posted_items": [
     {
@@ -1053,6 +1055,21 @@
       "caption_explanation": "Mee resume ATS lo *reject avtunda*? Ee post lo *top ATS hacks* tho shortlisting *easy cheseyyandi*!",
       "date": "2026-08-21 10:00:44",
       "mode": "evening"
+    },
+    {
+      "id": "ai_20260822_185921",
+      "title": "AI VS LAYOFFS INDIA!",
+      "bullets": [
+        "Startup *journey risky bhayya*! *Unexpected layoffs* jarugutunnai, so plan cheskondi.",
+        "AI startups *gatti ga hire chestunnai*! *Talent war peaks*, skill up cheskondi.",
+        "*FY26 lo 80,000 new tech jobs*! *India tech market* future bright ga undi.",
+        "Indian immigrants *global startup game change chesaru*. *Value $5 Trillion*, incredible impact!"
+      ],
+      "cta": "Full News Link in Bio! @insta_ai_bot",
+      "link": "https://www.livemint.com/indian-tech-jobs-report",
+      "caption_explanation": "Indian tech job market *chala dynamic ga undi*. Ee post lo *startup risks*, *AI-driven hiring surge*, mariyu *exciting new job stats* ni explore cheyyandi!",
+      "date": "2026-08-22 19:00:19",
+      "mode": "morning"
     }
   ]
 }
