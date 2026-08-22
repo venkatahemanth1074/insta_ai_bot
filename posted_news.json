@@ -66,11 +66,12 @@
     "ai_20260820_185918",
     "ai_20260820_223501",
     "ai_20260821_100003",
-    "ai_20260822_190140"
+    "ai_20260822_190140",
+    "ai_20260822_200106"
   ],
-  "last_post_time": "2026-08-22T19:00:23.813208",
+  "last_post_time": "2026-08-22T19:02:24.913011",
   "last_morning_post_date": "2026-08-22",
-  "last_evening_post_date": "2026-08-21",
+  "last_evening_post_date": "2026-08-22",
   "last_post_mode": "evening",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -137,7 +138,8 @@
     "AI & INDIA: JOB ROLLERCOASTER!",
     "ATS BYPASS SECRETS!",
     "AI VS LAYOFFS INDIA!",
-    "FRESHER RESUME REVOLT!"
+    "FRESHER RESUME REVOLT!",
+    "NETWORK POWER UNLEASHED!"
   ],
   "posted_items": [
     {
@@ -1086,6 +1088,21 @@
       "link": "https://bit.ly/fresher-resume-guide",
       "caption_explanation": "Freshers ki job search lo resume chala important. Ee post lo mee resume ni ela *powerful ga* cheyyalo simple tips tho explain chestunnam. Chusi try cheyyandi!",
       "date": "2026-08-22 19:02:21",
+      "mode": "evening"
+    },
+    {
+      "id": "ai_20260822_200106",
+      "title": "NETWORK POWER UNLEASHED!",
+      "bullets": [
+        "Build *genuine connections*! Simply asking for jobs is a *big no*. Relationships *important*.",
+        "LinkedIn *power ni use cheyyandi*. Industry leaders ni *follow avvandi*, valuable insights *thelusukondi*.",
+        "Informational interviews *plan cheyyandi*. Industry pros tho *chat cheyyandi*, *hidden job market* open avtadi!",
+        "Events & webinars lo *actively participate cheyyandi*. Face-to-face interactions *oka different level impact* istayi!"
+      ],
+      "cta": "Strategies & Guide in Bio! @insta_ai_bot",
+      "link": "https://www.linkedin.com/pulse/mastering-art-networking-career-growth-tips-tricks",
+      "caption_explanation": "Job search lo *networking entha important\u0c4b thelusukovalanukuntunnara*? Ee post lo *powerful networking strategies* ni discover cheyyandi, mee career journey ni *next level ki thesukellandi*!",
+      "date": "2026-08-22 20:01:51",
       "mode": "evening"
     }
   ]
