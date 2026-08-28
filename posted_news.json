@@ -68,10 +68,11 @@
     "ai_20260820_223501",
     "ai_20260821_100003",
     "ai_20260822_190140",
-    "ai_20260822_200106"
+    "ai_20260822_200106",
+    "ai_20260828_101816"
   ],
-  "last_post_time": "2026-08-22T20:01:55.183880",
-  "last_morning_post_date": "2026-08-22",
+  "last_post_time": "2026-08-28T10:17:08.047547",
+  "last_morning_post_date": "2026-08-28",
   "last_evening_post_date": "2026-08-22",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -141,7 +142,8 @@
     "AI VS LAYOFFS INDIA!",
     "FRESHER RESUME REVOLT!",
     "NETWORK POWER UNLEASHED!",
-    "INDIA AI JOB BOOM OR BUST?"
+    "INDIA AI JOB BOOM OR BUST?",
+    "LINKEDIN VISIBILITY BOOST!"
   ],
   "posted_items": [
     {
@@ -1121,6 +1123,21 @@
       "caption_explanation": "India lo tech job market *chala dynamic ga undi*. Ee post lo AI impact, startup challenges, and future job opportunities gurinchi *quick insights* chudandi!",
       "date": "2026-08-28 10:17:04",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260828_101816",
+      "title": "LINKEDIN VISIBILITY BOOST!",
+      "bullets": [
+        "Profile ni *next-level optimize* cheyyandi! Keywords tho search results lo *top ki vachchandi*.",
+        "Articles & Posts raasi *industry expert* avvandi. Mee thought leadership *proof ga choopinchandi*.",
+        "Comments lo *actively engage* avvandi. Industry leaders tho connect avvadam *easy ga untundi*.",
+        "LinkedIn Learnings ni use cheyyandi. New skills *nerchukondi*, badges profile lo *add cheyyandi*."
+      ],
+      "cta": "Roadmap & Link in Bio! @insta_ai_bot",
+      "link": "https://linkedin.com/learning/career-development",
+      "caption_explanation": "Mee LinkedIn profile ni simply resume la choostunnara? Ala kaadu! Ee post lo, recruiters mundhu *ela stand out avvaalo* chooddam. Mee visibility *pichekkistai* ee tips!",
+      "date": "2026-08-28 10:18:56",
+      "mode": "evening"
     }
   ]
 }
