@@ -70,10 +70,11 @@
     "ai_20260821_100003",
     "ai_20260822_190140",
     "ai_20260822_200106",
-    "ai_20260828_101816"
+    "ai_20260828_101816",
+    "ai_20260829_102323"
   ],
-  "last_post_time": "2026-08-28T10:18:59.486963",
-  "last_morning_post_date": "2026-08-28",
+  "last_post_time": "2026-08-29T10:22:14.501271",
+  "last_morning_post_date": "2026-08-29",
   "last_evening_post_date": "2026-08-28",
   "last_post_mode": "evening",
   "posted_titles": [
@@ -145,7 +146,8 @@
     "NETWORK POWER UNLEASHED!",
     "INDIA AI JOB BOOM OR BUST?",
     "LINKEDIN VISIBILITY BOOST!",
-    "INDIA'S JOB MARKET SWING"
+    "INDIA'S JOB MARKET SWING",
+    "NEGOTIATION NINJA MOVES!"
   ],
   "posted_items": [
     {
@@ -1155,6 +1157,21 @@
       "caption_explanation": "Hey techies! Ee post lo Indian tech job market lo jarugutunna *major updates* discuss chestunnam. Startup layoffs nunchi AI-driven hiring trends varaku, *latest insights* ikkada chudandi!",
       "date": "2026-08-29 10:22:10",
       "mode": "morning"
+    },
+    {
+      "id": "ai_20260829_102323",
+      "title": "NEGOTIATION NINJA MOVES!",
+      "bullets": [
+        "*Market research* must ra! Mee skill ki market lo *entha value undho* thelusukondi.",
+        "Initial offer *immediate ga accept cheyyoddu*. Always *think time adagandi* - it shows confidence.",
+        "Your *value ni highlight cheyyandi*. Mee achievements ni *numbers lo cheppandi*, adi powerful ga untadi.",
+        "*Perks gurinchi discuss cheyyandi*. Benefits, WFH, growth path - *ivi kuda salary eh* kada!"
+      ],
+      "cta": "Roadmap & Link in Bio! @insta_ai_bot",
+      "link": "https://careerhacks.com/negotiate",
+      "caption_explanation": "Salary negotiation ante just paisal matladadam kaadu, it's about claiming your worth! Ee post lo mee dream package ni ela secure cheskovalo *pichekkinche tips* unnayi.",
+      "date": "2026-08-29 10:24:04",
+      "mode": "evening"
     }
   ]
 }
