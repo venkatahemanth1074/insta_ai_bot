@@ -32,7 +32,8 @@
     "ai_20260820_185654",
     "ai_20260821_095743",
     "ai_20260822_185921",
-    "ai_20260828_101620"
+    "ai_20260828_101620",
+    "ai_20260829_102124"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -71,9 +72,9 @@
     "ai_20260822_200106",
     "ai_20260828_101816"
   ],
-  "last_post_time": "2026-08-28T10:17:08.047547",
+  "last_post_time": "2026-08-28T10:18:59.486963",
   "last_morning_post_date": "2026-08-28",
-  "last_evening_post_date": "2026-08-22",
+  "last_evening_post_date": "2026-08-28",
   "last_post_mode": "evening",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -143,7 +144,8 @@
     "FRESHER RESUME REVOLT!",
     "NETWORK POWER UNLEASHED!",
     "INDIA AI JOB BOOM OR BUST?",
-    "LINKEDIN VISIBILITY BOOST!"
+    "LINKEDIN VISIBILITY BOOST!",
+    "INDIA'S JOB MARKET SWING"
   ],
   "posted_items": [
     {
@@ -1138,6 +1140,21 @@
       "caption_explanation": "Mee LinkedIn profile ni simply resume la choostunnara? Ala kaadu! Ee post lo, recruiters mundhu *ela stand out avvaalo* chooddam. Mee visibility *pichekkistai* ee tips!",
       "date": "2026-08-28 10:18:56",
       "mode": "evening"
+    },
+    {
+      "id": "ai_20260829_102124",
+      "title": "INDIA'S JOB MARKET SWING",
+      "bullets": [
+        "*5 years experience* tho startup ki vellina techie, *1 month lone layoff*! *Security matter* bro.",
+        "AI startups *crazy ga hire chestunnai*! India lo *talent war intense* ayindi. *Skills sharp ga petkondi*.",
+        "*Indian immigrant founders* create chesaru *$5 Trillion value* and *thousands of jobs* globally! *True game-changers*.",
+        "FY26 lo *80,000 new tech jobs*! Kaani, *AI-driven layoffs* Innovaccer lo. *Adaptive skills eh key*!"
+      ],
+      "cta": "Check out full scoop Link in Bio! @insta_ai_bot",
+      "link": "https://www.techindiainsights.com/job-pulse",
+      "caption_explanation": "Hey techies! Ee post lo Indian tech job market lo jarugutunna *major updates* discuss chestunnam. Startup layoffs nunchi AI-driven hiring trends varaku, *latest insights* ikkada chudandi!",
+      "date": "2026-08-29 10:22:10",
+      "mode": "morning"
     }
   ]
 }
