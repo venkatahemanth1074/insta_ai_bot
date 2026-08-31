@@ -33,7 +33,8 @@
     "ai_20260821_095743",
     "ai_20260822_185921",
     "ai_20260828_101620",
-    "ai_20260829_102124"
+    "ai_20260829_102124",
+    "google_ai_hiring_india"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -73,9 +74,9 @@
     "ai_20260828_101816",
     "ai_20260829_102323"
   ],
-  "last_post_time": "2026-08-29T10:22:14.501271",
+  "last_post_time": "2026-08-29T10:24:08.658002",
   "last_morning_post_date": "2026-08-29",
-  "last_evening_post_date": "2026-08-28",
+  "last_evening_post_date": "2026-08-29",
   "last_post_mode": "evening",
   "posted_titles": [
     "TCS CRAZY HIRING UPDATE! \ud83d\ude80",
@@ -147,7 +148,8 @@
     "INDIA AI JOB BOOM OR BUST?",
     "LINKEDIN VISIBILITY BOOST!",
     "INDIA'S JOB MARKET SWING",
-    "NEGOTIATION NINJA MOVES!"
+    "NEGOTIATION NINJA MOVES!",
+    "GOOGLE AI MEGA HIRING! \u26a1"
   ],
   "posted_items": [
     {
@@ -1172,6 +1174,21 @@
       "caption_explanation": "Salary negotiation ante just paisal matladadam kaadu, it's about claiming your worth! Ee post lo mee dream package ni ela secure cheskovalo *pichekkinche tips* unnayi.",
       "date": "2026-08-29 10:24:04",
       "mode": "evening"
+    },
+    {
+      "id": "google_ai_hiring_india",
+      "title": "GOOGLE AI MEGA HIRING! \u26a1",
+      "bullets": [
+        "Google India expands its *AI Research & Cloud Labs* across Bengaluru & Hyderabad!",
+        "Hiring aggressively for *AI Engineers, SDEs & Cloud Architects* with high packages.",
+        "Strong grasp on *Python, PyTorch & Distributed Systems* is the top requirement.",
+        "Check open roles and apply before openings close bhayya!"
+      ],
+      "cta": "Apply Link in Bio! @insta_ai_bot",
+      "link": "https://careers.google.com/",
+      "caption_explanation": "Ee post lo Google India AI Research & Cloud hiring openings, required tech stack, and application guidelines cover chesam bhayya.",
+      "date": "2026-08-31 10:04:44",
+      "mode": "morning"
     }
   ]
 }
