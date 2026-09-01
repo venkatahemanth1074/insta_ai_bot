@@ -35,7 +35,8 @@
     "ai_20260828_101620",
     "ai_20260829_102124",
     "google_ai_hiring_india",
-    "ai_20260831_184555"
+    "ai_20260831_184555",
+    "ai_20260901_141626"
   ],
   "evening_career_history": [
     "resume_ats_hack",
@@ -76,7 +77,7 @@
     "ai_20260829_102323",
     "ai_20260831_100558"
   ],
-  "last_post_time": "2026-08-31T10:06:39.217856",
+  "last_post_time": "2026-08-31T18:46:41.327863",
   "last_morning_post_date": "2026-08-31",
   "last_evening_post_date": "2026-08-31",
   "last_post_mode": "evening",
@@ -153,7 +154,8 @@
     "NEGOTIATION NINJA MOVES!",
     "GOOGLE AI MEGA HIRING! \u26a1",
     "INBOX JOB MAGNET!",
-    "GLOBAL TECH JOB RIPPLE!"
+    "GLOBAL TECH JOB RIPPLE!",
+    "INDIA JOB MARKET REBOOT!"
   ],
   "posted_items": [
     {
@@ -1222,6 +1224,21 @@
       "link": "https://timesofindia.indiatimes.com/gadgets-news",
       "caption_explanation": "Current tech job market *full action lo undi*, global shifts and AI impact *entha undho* choopistunnam. Ee post lo Indian tech job landscape lo *latest trends* meeku thelustai.",
       "date": "2026-08-31 18:46:37",
+      "mode": "morning"
+    },
+    {
+      "id": "ai_20260901_141626",
+      "title": "INDIA JOB MARKET REBOOT!",
+      "bullets": [
+        "Startup *move chesetappudu chala careful ga undali*, sudden *layoffs chance ekkuva*.",
+        "AI sector lo *hiring race pichekkinchindi*! *Smart skills tho ready ga undandi*.",
+        "Indian immigrants *global ga companies build chesi*, *lakhs of jobs create chesaru*.",
+        "*SpaceTech and AI* lo *next level openings* vastunnai, *learn cheyyandi fast ga*."
+      ],
+      "cta": "Full Details: Link in Bio! @JobGuruIndia",
+      "link": "https://techcrunch.com/india-job-market-insights",
+      "caption_explanation": "India lo job market *speed ga change avtundi*! Ee post lo *startup risks*, *AI hiring surge*, and *new growth opportunities* gurinchi thelusukondi. Discover *what's driving job creation* in India!",
+      "date": "2026-09-01 14:17:11",
       "mode": "morning"
     }
   ]
